@@ -1,0 +1,15 @@
+/Users/mitchell/development/seir_penguin/practice/c#/bin/Debug/net6.0/c#
+/Users/mitchell/development/seir_penguin/practice/c#/bin/Debug/net6.0/c#.deps.json
+/Users/mitchell/development/seir_penguin/practice/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/Users/mitchell/development/seir_penguin/practice/c#/bin/Debug/net6.0/c#.dll
+/Users/mitchell/development/seir_penguin/practice/c#/bin/Debug/net6.0/ref/c#.dll
+/Users/mitchell/development/seir_penguin/practice/c#/bin/Debug/net6.0/c#.pdb
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/c#.dll
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/ref/c#.dll
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/c#.pdb
+/Users/mitchell/development/seir_penguin/practice/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
