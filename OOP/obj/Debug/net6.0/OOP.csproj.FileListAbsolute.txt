@@ -1,0 +1,15 @@
+/Users/mitchell/development/practice/c#_mac/OOP/bin/Debug/net6.0/OOP
+/Users/mitchell/development/practice/c#_mac/OOP/bin/Debug/net6.0/OOP.deps.json
+/Users/mitchell/development/practice/c#_mac/OOP/bin/Debug/net6.0/OOP.runtimeconfig.json
+/Users/mitchell/development/practice/c#_mac/OOP/bin/Debug/net6.0/OOP.dll
+/Users/mitchell/development/practice/c#_mac/OOP/bin/Debug/net6.0/ref/OOP.dll
+/Users/mitchell/development/practice/c#_mac/OOP/bin/Debug/net6.0/OOP.pdb
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/OOP.dll
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/ref/OOP.dll
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/OOP.pdb
+/Users/mitchell/development/practice/c#_mac/OOP/obj/Debug/net6.0/OOP.genruntimeconfig.cache
